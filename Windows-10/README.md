@@ -1,14 +1,8 @@
 <p align="center">
-  <a href="https://github.com/chethanyadav456/Giveaway">
-    <img src="./assets/Windows_10_Logo.png" alt="Logo">
-  </a>
-
+  
   <h3 align="center">Windows 10 Activator</h3>
   <h4 align="center">💖Support this repo by giving a star. Thanks.</h4>
-  
-- Methid 1 - [Click here](https://github.com/chethanyadav456/Windows-10-Activator/blob/main/README.md#how-to-use----method-1)
-- Method 2 - [Click here](https://github.com/chethanyadav456/Windows-10-Activator/blob/main/README.md#how-to-use----method-2)
-- Method 3 - [Click here]([https://github.com/chethanyadav456/Windows-10-Activator/tree/main/method-3](https://github.com/chethanyadav456/Windows-10-Activator/blob/main/README.md#how-to-use----method-3)
+
 
 ## Supported Versions.
 - Windows 10 Home.
